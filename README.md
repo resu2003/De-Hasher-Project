@@ -40,7 +40,7 @@ To use the hash cracker tool, execute `hash_cracker.py` with appropriate options
 -   `-s HASH`: Crack a single hash value.
 -   `-f FILE`: Crack hashes from a file.
 -   `-d DIRECTORY`: Search for hashes in files within a directory.
--   `-t THREADS`: Number of threads to use for multithreading (default is 4).
+-   `-t THREADS`: Number of threads for multithreading (default is 4).
 
 ### Examples
 
@@ -82,17 +82,12 @@ The tool utilizes a combination of predefined hashing APIs and supports multithr
 -   Some APIs may have rate limits or restrictions that could affect performance.
 -   Consider customizing or extending the tool based on specific requirements or additional APIs.
 
-# License
--------
-
-This project is licensed under the MIT License. See the <LICENSE> file for details.
-
 # Acknowledgments
 ---------------
 
--   Inspired by the need for a versatile hash cracking tool in cybersecurity and penetration testing.
--   Special thanks to the contributors of the hash cracking APIs used in this tool.
+-   Inspired by the need for a versatile cybersecurity and penetration testing hash cracking tool.
+-   Special thanks to the contributors of the hash-cracking APIs used in this tool.
 
 # Summary
 
-This markdown document provides a structured and informative overview of the Advanced Hash Cracker tool, covering its features, installation process, usage examples, implementation details, licensing information, and acknowledgments. Adjust the URLs, project structure, and licensing details as per your actual implementation and preferences before publishing it on GitHub.
+This markdown document provides a structured and informative overview of the Advanced Hash Cracker tool, covering its features, installation process, usage examples, implementation details, licensing information, and acknowledgements. You can adjust the URLs, project structure, and licensing details as you've done before publishing it on GitHub.
